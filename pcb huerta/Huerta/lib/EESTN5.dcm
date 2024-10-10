@@ -1,0 +1,852 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7000
+D N−Channel TO−92
+F http://www.onsemi.com/pub_link/Collateral/2N7000-D.PDF
+$ENDCMP
+#
+$CMP 6N135
+D High Speed Optocoupler, TTL Compatible, CTR 18%, DIP8
+K High Speed Optocoupler
+F http://www.semicon.toshiba.co.jp/docs/datasheet/en/Opto/6N135_6N136_en_datasheet_071001.pdf
+$ENDCMP
+#
+$CMP 6N136
+D High Speed Optocoupler, TTL Compatible, CTR 24%, DIP8
+K High Speed Optocoupler
+F http://www.semicon.toshiba.co.jp/docs/datasheet/en/Opto/6N135_6N136_en_datasheet_071001.pdf
+$ENDCMP
+#
+$CMP 74HC595
+D 8 bits serial in // out Shift Register 3 State Out
+K HCMOS SR 3State
+F 74xx/74HC595.pdf
+$ENDCMP
+#
+$CMP 74LS595
+D 8 bits serial in // out Shift Register 3 State Out
+K TTL SR 3State
+$ENDCMP
+#
+$CMP 74LS596
+D 8 bits serial in // out Shift Register Open Collect.
+K HCMOS SR OpenCol
+$ENDCMP
+#
+$CMP ARDUINO_as_UNO
+D schématic for build a shield or clone an "arduino as UNO " based on revision 3
+K arduino
+F http://arduino.cc/en/Main/ArduinoBoardUno
+$ENDCMP
+#
+$CMP ATMEGA168A-AU
+D TQFP32, 16k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA168A-PU
+D PDIP28 Narrow, 16k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA168PA-AU
+D TQFP32, 16k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA168PA-PU
+D PDIP28 Narrow, 16k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA328-AU
+D TQFP32, 32k Flash, 2kB SRAM, 1kB EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA328-PU
+D PDIP28 Narrow, 32k Flash, 2kB SRAM, 1kB EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA328P-AU
+D TQFP32, 32k Flash, 2kB SRAM, 1kB EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA328P-PU
+D PDIP28 Narrow, 32k Flash, 2kB SRAM, 1kB EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA48A-AU
+D TQFP32, 4k Flash, 512B SRAM, 256B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA48A-PU
+D PDIP28 Narrow, 4k Flash, 512B SRAM, 256B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA48PA-AU
+D TQFP32, 4k Flash, 512B SRAM, 256B EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA48PA-PU
+D PDIP28 Narrow, 4k Flash, 512B SRAM, 256B EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA88A-AU
+D TQFP32, 8k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA88A-PU
+D PDIP28 Narrow, 8k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA88PA-AU
+D TQFP32, 8k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP ATMEGA88PA-PU
+D PDIP28 Narrow, 8k Flash, 1kB SRAM, 512B EEPROM
+K AVR 8bit Microcontroller MegaAVR PicoPower
+F http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf
+$ENDCMP
+#
+$CMP Arduino_Pro_Mini_Header
+D Arduino Pro Mini Header
+$ENDCMP
+#
+$CMP BC337
+D 45V Vce, 0.8A Ic, NPN, TO-92
+K  NPN Transistor
+F http://www.nxp.com/documents/data_sheet/BC817_BC817W_BC337.pdf
+$ENDCMP
+#
+$CMP BC338
+D 25V Vce, 0.8A Ic, NPN, TO-92
+K NPN Transistor
+F http://diotec.com/tl_files/diotec/files/pdf/datasheets/bc337
+$ENDCMP
+#
+$CMP BC546
+D 65V Vce, 0.1A Ic, NPN, Small Signal Transistor, TO-92
+K NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC547.pdf
+$ENDCMP
+#
+$CMP BC547
+D 45V Vce, 0.1A Ic, NPN, Small Signal Transistor, TO-92
+K NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC547.pdf
+$ENDCMP
+#
+$CMP BC548
+D 30V Vce, 0.1A Ic, NPN, Small Signal Transistor, TO-92
+K NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC547.pdf
+$ENDCMP
+#
+$CMP BC549
+D 30V Vce, 0.1A Ic, NPN, Small Signal Transistor, TO-92
+K NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC547.pdf
+$ENDCMP
+#
+$CMP BC550
+D 45V Vce, 0.1A Ic, NPN, Small Signal Transistor, TO-92
+K NPN Transistor
+F http://www.fairchildsemi.com/ds/BC/BC547.pdf
+$ENDCMP
+#
+$CMP BC817
+D BC817
+F http://www.onsemi.com/pub_link/Collateral/BC817-40W-D.PDF
+$ENDCMP
+#
+$CMP BC847
+D BC817
+F http://cache.nxp.com/documents/data_sheet/BC846_SER.pdf?pspll=1
+$ENDCMP
+#
+$CMP BT136-500
+D 4A RMS, 500V Off-State Voltage, Triac, TO-220
+K Triac
+F http://www.micropik.com/PDF/BT136-600.pdf
+$ENDCMP
+#
+$CMP BT136-600
+D 4A RMS, 500V Off-State Voltage, Triac, TO-220
+K Triac
+F http://www.micropik.com/PDF/BT136-600.pdf
+$ENDCMP
+#
+$CMP BT136-800
+D 4A RMS, 800V Off-State Voltage, Triac, TO-220
+K Triac
+F http://www.micropik.com/PDF/BT136-600.pdf
+$ENDCMP
+#
+$CMP BT138-600
+D 12A RMS, 600V Off-State Voltage, Triac, TO-220
+K Triac
+F https://assets.nexperia.com/documents/data-sheet/BT138_SER_D_E.pdf
+$ENDCMP
+#
+$CMP BT138-800
+D 12A RMS, 800V Off-State Voltage, Triac, TO-220
+K Triac
+F https://assets.nexperia.com/documents/data-sheet/BT138_SER_D_E.pdf
+$ENDCMP
+#
+$CMP BT139-600
+D 16A RMS, 600V Off-State Voltage, 4Q Triac, TO-220
+K Triac
+F https://www.rapidonline.com/pdf/47-3240.pdf
+$ENDCMP
+#
+$CMP BTA16-600B
+D 16A RMS, 600V Off-State Voltage, 50mA Sensitivity, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-600BW
+D 16A RMS, 600V Off-State Voltage, 50mA Sensitivity, Snubberless, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-600C
+D 16A RMS, 600V Off-State Voltage, 35mA Sensitivity, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-600CW
+D 16A RMS, 600V Off-State Voltage, 35mA Sensitivity, Snubberless, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-600SW
+D 16A RMS, 600V Off-State Voltage, 10mA Sensitivity, Snubberless, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-800B
+D 16A RMS, 800V Off-State Voltage, 50mA Sensitivity, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-800BW
+D 16A RMS, 800V Off-State Voltage, 50mA Sensitivity, Snubberless, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-800C
+D 16A RMS, 800V Off-State Voltage, 35mA Sensitivity, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-800CW
+D 16A RMS, 800V Off-State Voltage, 35mA Sensitivity, Snubberless, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTA16-800SW
+D 16A RMS, 800V Off-State Voltage, 10mA Sensitivity, Snubberless, Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-600B
+D 16A RMS, 600V Off-State Voltage, 50mA Sensitivity, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-600BW
+D 16A RMS, 600V Off-State Voltage, 50mA Sensitivity, Snubberless, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-600C
+D 16A RMS, 600V Off-State Voltage, 35mA Sensitivity, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-600CW
+D 16A RMS, 600V Off-State Voltage, 35mA Sensitivity, Snubberless, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-600SW
+D 16A RMS, 600V Off-State Voltage, 10mA Sensitivity, Snubberless, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-800B
+D 16A RMS, 800V Off-State Voltage, 50mA Sensitivity, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-800BW
+D 16A RMS, 800V Off-State Voltage, 50mA Sensitivity, Snubberless, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-800C
+D 16A RMS, 800V Off-State Voltage, 35mA Sensitivity, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-800CW
+D 16A RMS, 800V Off-State Voltage, 35mA Sensitivity, Snubberless, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BTB16-800SW
+D 16A RMS, 800V Off-State Voltage, 10mA Sensitivity, Snubberless, Non-Insulated, Triac, TO-220
+K Triac
+F https://www.st.com/resource/en/datasheet/bta16.pdf
+$ENDCMP
+#
+$CMP BluePill
+D STM32 Blue Pill ; not KLC compliant
+K module blue pill STM32F103C8T6
+F https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html
+$ENDCMP
+#
+$CMP Buzzer
+D Buzzer, polar
+K Quartz Resonator Ceramic
+$ENDCMP
+#
+$CMP CIAA_Z3RO
+D HEADER CIAA Z3RO
+$ENDCMP
+#
+$CMP CNY70
+D DIP4, Refective Sensor
+F http://www.vishay.com/docs/83751/cny70.pdf
+$ENDCMP
+#
+$CMP CNY74-2
+D DC Dual Optocoupler
+K NPN DC Dual Optocoupler
+$ENDCMP
+#
+$CMP CONN_01X03
+D Connector, single row, 01x03, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_02X05
+D Connector, double row, 02x05
+K connector
+$ENDCMP
+#
+$CMP Cable_PAD
+D Solder Pad for cable connection
+K Cable
+$ENDCMP
+#
+$CMP Conn_01X03
+D Connector, single row, 01x03, pin header
+K connector
+$ENDCMP
+#
+$CMP Conn_01x04
+D Generic connector, single row, 01x04
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x06
+D Generic connector, single row, 01x06
+K connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x07
+D Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Crystal_Small
+D Two pin crystal
+K Quartz, Resonator, Ceramic, Filter
+$ENDCMP
+#
+$CMP DB3
+D Diode for alternating current
+K AC diode DIAC
+F http://www.st.com/content/ccc/resource/technical/document/datasheet/fb/af/b0/56/99/1a/42/b4/CD00002277.pdf/files/CD00002277.pdf/jcr:content/translations/en.CD00002277.pdf
+$ENDCMP
+#
+$CMP DOT-BAR
+D GRAPH unit
+K BAR DOT
+F Display/HDSP-48xx.pdf
+$ENDCMP
+#
+$CMP DOT-BAR2
+D BAR GRAPH Block
+K BAR DOT
+F Display/HDSP-48xx.pdf
+$ENDCMP
+#
+$CMP DRV8833
+D DRV8833
+K DRV8833
+$ENDCMP
+#
+$CMP DRV8833_POLOLU
+D BreakOut Board for DRV8833 By Pololu
+K DRV8833 Pololu
+$ENDCMP
+#
+$CMP DRV8872
+D DRV8872
+K DRV8872
+$ENDCMP
+#
+$CMP D_Bridge_+A-A
+D Diode bridge (pins: 1=+, 2=AC, 3=-, 4=AC)
+K rectifier acdc
+$ENDCMP
+#
+$CMP ESP32_DEVKITC
+D ESP32-DEVKITC
+$ENDCMP
+#
+$CMP FAN3121T
+D Gate Drivers, High-Speed,Low-Side, Single 9-A
+K Gate Driver
+F https://www.onsemi.com/pdf/datasheet/fan3121-d.pdf
+$ENDCMP
+#
+$CMP GP2Y0A60SZLF
+D BreakOut board for GP2Y0A60SZLF by Pololu
+$ENDCMP
+#
+$CMP HEADER_02X05
+D Connector, double row, 02x05
+K connector
+$ENDCMP
+#
+$CMP IRL6342
+D HexFET N-MOS Power Mosfet, Vds 30V, Rdson 0.014R, Id 9.9A, SOIC-8
+K HexFET Power Mosfet N-MOS
+F http://www.infineon.com/dgdl/irl6342pbf.pdf?fileId=5546d462533600a40153565ffb7a2577
+$ENDCMP
+#
+$CMP IRS2011
+D High and Low Side Driver, 200V operation, Output Current 1A,  PDIP-8 , SOIC-8
+K Gate Driver
+F https://www.infineon.com/dgdl/irs2011pbf.pdf?fileId=5546d462533600a401535675c19f2784
+$ENDCMP
+#
+$CMP Jumper_NC_Dual
+D Dual Jumper, normally closed
+K jumper bridge link nc
+$ENDCMP
+#
+$CMP L293
+D Quadruple Half-H Drivers
+K Half-H Driver Motor
+F http://www.ti.com/lit/ds/symlink/l293.pdf
+$ENDCMP
+#
+$CMP L293D
+D Quadruple Half-H Drivers
+K Half-H Driver Motor
+F http://www.ti.com/lit/ds/symlink/l293.pdf
+$ENDCMP
+#
+$CMP L298(H)N
+D Dual full bridge motor driver, up to 46V, 4A, Multiwatt-15
+K H-bridge motor driver
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf
+$ENDCMP
+#
+$CMP LCD-016N002L
+D 16 x 2 Character LCD
+F http://www.vishay.com/docs/37299/37299.pdf
+$ENDCMP
+#
+$CMP LCD16X2
+D WC1602A0-SFYLYNC06
+K Generic LCD 16x2 Alphanumeric 16pin Green Backlight
+F http://www.kamami.pl/dl/wc1602a0.pdf
+$ENDCMP
+#
+$CMP LM1117-SOT
+D 800mA Low Dropout Linear Regulator, SOT packages
+F http://www.mouser.com/ds/2/282/lm1117-n-7107.pdf
+$ENDCMP
+#
+$CMP MCP2515-xSO
+D Stand-Alone CAN Controller with SPI Interface, SOIC-18
+K CAN Controller SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
+$ENDCMP
+#
+$CMP MCP2551-I-P
+D High-Speed CAN Transceiver, 1Mbps, 5V supply, DIP-8
+K High-Speed CAN Transceiver
+F http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf
+$ENDCMP
+#
+$CMP MOC3010M
+D Random Phase Opto-Triac, Vdrm 250V, Ift 15mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3011M
+D Random Phase Opto-Triac, Vdrm 250V, Ift 10mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3012M
+D Random Phase Opto-Triac, Vdrm 250V, Ift 5mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3020M
+D Random Phase Opto-Triac, Vdrm 400V, Ift 30mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3021M
+D Random Phase Opto-Triac, Vdrm 400V, Ift 15mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3022M
+D Random Phase Opto-Triac, Vdrm 400V, Ift 10mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3023M
+D Random Phase Opto-Triac, Vdrm 400V, Ift 5mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3020M.pdf
+$ENDCMP
+#
+$CMP MOC3051M
+D Random Phase Opto-Triac, Vdrm 600V, Ift 15mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3052M.pdf
+$ENDCMP
+#
+$CMP MOC3052M
+D Random Phase Opto-Triac, Vdrm 600V, Ift 10mA, DIP6
+K Opto-Triac Opto Triac Random Phase
+F http://www.fairchildsemi.com/ds/MO/MOC3052M.pdf
+$ENDCMP
+#
+$CMP MP6500
+D BreakOut board for MP6500 by Pololu
+K MP6500 Pololu
+$ENDCMP
+#
+$CMP Mounting_Hole
+D Mounting Hole without connection
+K mounting hole
+$ENDCMP
+#
+$CMP OSHWA
+D Logo Open Hardware
+$ENDCMP
+#
+$CMP PC817
+D DC Optocoupler, Vce 35V, CTR 50-300%, DIP4
+K NPN DC Optocoupler
+F http://www.soselectronic.cz/a_info/resource/d/pc817.pdf
+$ENDCMP
+#
+$CMP PIC12F629-I_MC
+D PIC12F629, 1024W Flash, 64B SRAM, 128B EEPROM, DFN8
+K FLASH-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf
+$ENDCMP
+#
+$CMP PIC12F629-I_P
+D 1024W Flash, 64B SRAM, 128B EEPROM, PDIP8
+K FLASH-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf
+$ENDCMP
+#
+$CMP PIC12F629-I_SN
+D PIC12F629, 1024W Flash, 64B SRAM, 128B EEPROM, SO8
+K FLASH-Based 8-Bit CMOS Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/41190G.pdf
+$ENDCMP
+#
+$CMP PIC18F14K50-E_P
+D 8K Flash, 512 SRAM, 256 EEPROM, USB, nanoWatt XLP, DIP20
+K Flash-Based 8bit CMOS Microcontroller XLP
+F http://ww1.microchip.com/downloads/en/devicedoc/41350c.pdf
+$ENDCMP
+#
+$CMP PIC18F2550-I_SP
+D 32K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, SPDIP28
+K Flash-Based 8-Bit Microcontroller XLP
+F http://ww1.microchip.com/downloads/en/devicedoc/39632c.pdf
+$ENDCMP
+#
+$CMP PIC18F4550-I_P
+D 32K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, DIP40
+K Flash-Based 8-Bit Microcontroller XLP
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39760d.pdf
+$ENDCMP
+#
+$CMP PIC18LF2550-I_SP
+D 32K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, SPDIP28
+K Flash-Based 8-Bit Microcontroller XLP
+F http://ww1.microchip.com/downloads/en/devicedoc/39632c.pdf
+$ENDCMP
+#
+$CMP PIC18LF4550-I_P
+D 32K Flash, 2K SRAM, 256 EEPROM, USB, nanoWatt XLP, DIP40
+K Flash-Based 8-Bit Microcontroller XLP
+F http://ww1.microchip.com/downloads/en/DeviceDoc/39760d.pdf
+$ENDCMP
+#
+$CMP POT
+D Trimmer
+K R
+$ENDCMP
+#
+$CMP PSMN7R5-60YL
+D N-channel 60 V, 7.5 mΩ logic level MOSFET
+K MOSFET N
+F https://assets.nexperia.com/documents/data-sheet/PSMN7R5-60YL.pdf
+$ENDCMP
+#
+$CMP Pololu_Breakout_A4988
+D Pololu Breakout Board, Stepper Driver A4988
+K Pololu Breakout Board Stepper Driver A4988
+F https://www.pololu.com/product/2980/pictures
+$ENDCMP
+#
+$CMP Pololu_Breakout_DRV8825
+D Pololu Breakout Board, Stepper Driver DRV8825
+K Pololu Breakout Board Stepper Driver DRV8825
+F https://www.pololu.com/product/2982
+$ENDCMP
+#
+$CMP QRE1113
+D Minature Reflective Object Sensor
+K QRE1113
+F https://www.fairchildsemi.com/products/optoelectronics/infrared/reflective-sensors/QRE1113.html
+$ENDCMP
+#
+$CMP R
+D Resistor
+$ENDCMP
+#
+$CMP RM84
+D RELPOL RM84, Dual Pole Relay, 5mm Pitch, 8A
+K Dual Pole Relay
+F http://www.relpol.pl/en/content/download/13766/168095/file/e_RM84.pdf
+$ENDCMP
+#
+$CMP RSM822
+D RELPOL RSM822, Dual Pole Relay, 5mm Pitch, 2A
+K Dual Pole Relay
+F http://www.relpol.pl/en/content/download/14975/202519/file/e_RSM822.pdf
+$ENDCMP
+#
+$CMP Relay_Doble_Inversor
+D FINDER 40.52, Dual Pole Relay, 5mm Pitch, 8A
+K Dual Pole Relay
+F http://gfinder.findernet.com//assets/Series/5/S40EN.pdf
+$ENDCMP
+#
+$CMP SW_DIP_x02
+D 2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+$ENDCMP
+#
+$CMP SW_DIP_x03
+D 3x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+$ENDCMP
+#
+$CMP SW_DIP_x04
+D 4x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol
+K dip switch
+$ENDCMP
+#
+$CMP SW_Push
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP SW_SPDT
+D Switch, single pole double throw
+K switch single-pole double-throw spdt ON-ON
+$ENDCMP
+#
+$CMP Screw_Terminal_01x04
+D Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
+K screw terminal
+F ~
+$ENDCMP
+#
+$CMP Screw_Terminal_01x05
+D Generic screw terminal, single row, 01x05
+K screw terminal
+F ~
+$ENDCMP
+#
+$CMP TB6612_BREAKOUT
+D BreakOut Board for TB6612
+K TB6612
+$ENDCMP
+#
+$CMP TCRT5000
+D Refective Sensor
+F https://www.vishay.com/docs/83760/tcrt5000.pdf
+$ENDCMP
+#
+$CMP TIC206
+D 4A RMS, 400-700V Off-State Voltage, Sensitive Gate Triac, TO-220
+K Triac
+F http://www.farnell.com/datasheets/56922.pdf
+$ENDCMP
+#
+$CMP TIC216
+D 6A RMS, 400-800V Off-State Voltage, Triac, TO-220
+K Triac
+F http://www.mouser.com/ds/2/54/tic216-37811.pdf
+$ENDCMP
+#
+$CMP TIC226
+D 8A RMS, 400-800V Off-State Voltage, Triac, TO-220
+K Triac
+F http://pdf.datasheetcatalog.com/datasheet/PowerInnovations/mXuqxvy.pdf
+$ENDCMP
+#
+$CMP TJA1050
+D High-Speed CAN Transceiver, silent mode, SOIC-8
+K High-Speed CAN Transceiver
+F https://www.nxp.com/docs/en/data-sheet/TJA1050.pdf
+$ENDCMP
+#
+$CMP TL061
+D Operational Amplifier, DIP-8/SO-8
+K single opamp
+F http://www.ti.com/lit/ds/symlink/tl062.pdf
+$ENDCMP
+#
+$CMP TL071
+D Single Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8
+K singel opamp
+F http://www.ti.com/lit/ds/symlink/tl071.pdf
+$ENDCMP
+#
+$CMP TL081
+D Single JFET-Input Operational Amplifiers, DIP-8/SOIC-8
+K single opamp
+F http://www.ti.com/lit/ds/symlink/tl081.pdf
+$ENDCMP
+#
+$CMP TSOP21xx
+D IR Receiver Modules for Remote Control Systems
+K opto IR receiver
+F http://www.vishay.com/docs/82460/tsop45.pdf
+$ENDCMP
+#
+$CMP TSOP2238
+D IR Receiver Modules for Remote Control Systems
+K opto IR receiver
+F http://www.vishay.com/docs/82669/tsop32s40f.pdf
+$ENDCMP
+#
+$CMP TSOP23xx
+D IR Receiver Modules for Remote Control Systems
+K opto IR receiver
+F http://www.vishay.com/docs/82460/tsop45.pdf
+$ENDCMP
+#
+$CMP TSOP25xx
+D IR Receiver Modules for Remote Control Systems
+K opto IR receiver
+F http://www.vishay.com/docs/82460/tsop45.pdf
+$ENDCMP
+#
+$CMP TSOP321xx
+D IR Receiver Modules for Remote Control Systems
+K opto IR receiver
+F http://www.vishay.com/docs/82490/tsop321.pdf
+$ENDCMP
+#
+$CMP TSOP323xx
+D IR Receiver Modules for Remote Control Systems
+K opto IR receiver
+F http://www.vishay.com/docs/82490/tsop321.pdf
+$ENDCMP
+#
+$CMP TSOP325xx
+D IR Receiver Modules for Remote Control Systems
+K opto IR receiver
+F http://www.vishay.com/docs/82490/tsop321.pdf
+$ENDCMP
+#
+$CMP Teensy4.0_B
+D Sin los pines posteriores
+$ENDCMP
+#
+$CMP WeMos_mini
+D WeMos D1 mini
+K esp8266, wemos
+F http://www.wemos.cc/Products/d1_mini.html
+$ENDCMP
+#
+#End Doc Library

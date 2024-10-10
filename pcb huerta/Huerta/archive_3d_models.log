@@ -1,0 +1,103 @@
+07-31 18:35:32 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 220:Plugin executed on: 'win32'
+07-31 18:35:32 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 221:Plugin executed with python version: '3.11.5 (main, Jul 16 2024, 08:01:06) [MSC v.1939 64 bit (AMD64)]'
+07-31 18:35:32 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 222:KiCad build version: 8.0.4
+07-31 18:35:32 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 223:Plugin version: 1.0.12
+
+07-31 18:35:32 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 228:Screen sizes: [wx.Size(1440, 900)]
+07-31 18:35:32 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 235:Dialog size: wx.Size(213, 81)
+07-31 18:35:32 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 237:Char size: 15
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 26:Starting to archive 3D models
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U4
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KIPRJMOD}/lib/HandSoldering.pretty/ESP32-WROOM-32E-N4.STEP
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KIPRJMOD}/lib/HandSoldering.pretty/ESP32-WROOM-32E-N4.STEP
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J3
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.wrl
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.wrl
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C6
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/CAP_ELEC_5_11.wrl
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/CAP_ELEC_5_11.wrl
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: Q1
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.wrl
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J4
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.wrl
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 135:Did not copy: ${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.wrl
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.wrl
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C1
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/CAP_ELEC_8_11.5.wrl
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/CAP_ELEC_8_11.5.wrl
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R8
+07-31 18:35:39 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R3
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 135:Did not copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R1
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C7
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/CAP_ELEC_5_11.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/CAP_ELEC_5_11.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R4
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 135:Did not copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: 5v1
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/to220.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/to220.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C4
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J7
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/Pin_Strip_3_2.54.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/Pin_Strip_3_2.54.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J2
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/Pin_Strip_3_2.54.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/Pin_Strip_3_2.54.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J1
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/Bornera3_Azul.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/Bornera3_Azul.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SW2
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1000P-B.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1000P-B.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C5
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 135:Did not copy: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: C2
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/CAP_ELEC_8_11.5.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/CAP_ELEC_8_11.5.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U1
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-4_W7.62mm.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-4_W7.62mm.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: U3
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: J8
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/Pin_Strip_3_2.54.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/Pin_Strip_3_2.54.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: D1
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.wrl
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: K1
+07-31 18:35:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/Relé_Type_C.wrl
+07-31 18:35:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/Relé_Type_C.wrl
+07-31 18:35:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: bornera1
+07-31 18:35:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/Bornera2_Azul.wrl
+07-31 18:35:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: C:/Users/tintu/OneDrive/Escritorio/Librerias-Kicad-master/EESTN5.3dshapes/Bornera2_Azul.wrl
+07-31 18:35:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: R2
+07-31 18:35:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl
+07-31 18:35:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 135:Did not copy: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl
+07-31 18:35:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1210_3225Metric.wrl
+07-31 18:35:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 47:Getting 3D models for footprint of: SW1
+07-31 18:35:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 59:Trying to copy: ${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1000P-B.wrl
+07-31 18:35:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 135:Did not copy: ${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1000P-B.wrl
+07-31 18:35:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 139:Remapping: ${KICAD8_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1000P-B.wrl
+07-31 18:35:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 153:Did not succeed to copy 3D models!
+('J4', '${KICAD8_3DMODEL_DIR}\\Connector_PinSocket_2.54mm.3dshapes\\PinSocket_1x04_P2.54mm_Vertical.wrl')
+('R3', '${KICAD8_3DMODEL_DIR}\\Resistor_SMD.3dshapes\\R_1206_3216Metric.wrl')
+('R4', '${KICAD8_3DMODEL_DIR}\\Resistor_SMD.3dshapes\\R_1206_3216Metric.wrl')
+('C5', '${KICAD8_3DMODEL_DIR}\\Capacitor_SMD.3dshapes\\C_1206_3216Metric.wrl')
+('R2', '${KICAD8_3DMODEL_DIR}\\Resistor_SMD.3dshapes\\R_1210_3225Metric.wrl')
+('SW1', '${KICAD8_3DMODEL_DIR}\\Button_Switch_SMD.3dshapes\\SW_SPST_B3U-1000P-B.wrl')
